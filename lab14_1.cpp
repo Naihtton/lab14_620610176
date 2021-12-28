@@ -17,7 +17,6 @@ int main(){
     cout << "\nMin = " << B[5];
     return 0;
 }
-
 void stat(const double A[],int N,double B[]){
 
     double Ave = A[0];
